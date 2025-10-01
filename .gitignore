@@ -1,0 +1,12 @@
+#Archivos de compilación y ejecutables
+*.o
+*.out
+*.exe
+build/
+bin/
+
+#Archivo de configuración de VSCode
+.vscode/
+
+#Archivos de registro
+*.log
